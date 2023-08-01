@@ -1,6 +1,6 @@
 <h1 align='center'> Hey! :wave:</h1>
 <p align='center'>
-I'm Grainchart,I am a frontend enthusiast and want to learn frontend development...
+I'm grainchart,I am a frontend enthusiast and want to learn frontend development...
 </p>
 
 <div align='center'>
